@@ -1,4 +1,5 @@
 rahbot
 ======
 
-AI chatterbot in python which initially knows nothing. Teach him to chat.
+AI chatterbot in python which initially knows nothing and learns from user inputs to chat.
+
